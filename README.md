@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+🐍 Python | ⚛ React.js | 🖊 JavaScript | 🎨 HTML | 🎨 CSS  
+
+### Cloud & DevOps
+☁ AWS | 🐳 Docker | ☸ Kubernetes | ⚙ GitHub Actions | 🛠 Terraform | 🔄 Jenkins | 📦 Helm | ⚡ Ansible  
+
+### Databases & Monitoring
+🛢 MySQL | 🍃 MongoDB | 🔥 Redis | 📊 Prometheus | 🐙 Grafana  
