@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-I'm a **Developer Advocate** & **Educator @TrainWithShubham** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **8+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a **Cloud & DevOps Engineer** and **Full-Stack Developer** from 🇵🇰 Pakistan, passionate about building **scalable web applications** and managing **cloud-native infrastructure**. With strong expertise in **MERN stack development** and **DevOps practices**, I help bridge the gap between **application development** and **reliable cloud deployment**.  
 
-- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
-- ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
+- 🔭 Currently working on **MERN applications**, **cloud-native solutions**, and **DevOps automation**  
+- 🌱 Exploring advanced topics in **container orchestration (Kubernetes, Docker)** and **cloud platforms (AWS, GCP, Azure)**  
+- 👯 Open to collaborating on **open-source DevOps tools** and **modern web applications**  
+- 💬 Ask me about **MERN stack, Cloud Infrastructure, CI/CD pipelines, and DevOps best practices**  
+- ⚡ Fun fact: I love automating repetitive tasks and turning ideas into **production-ready applications**  
 
 ---
 
@@ -72,52 +72,19 @@ I'm a **Developer Advocate** & **Educator @TrainWithShubham** specializing in **
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LondheShubham153&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LondheShubham153&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LondheShubham153&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LondheShubham153&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LondheShubham153&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
-
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamlondhe1996/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubhamlondhe96/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trainwithshubham@gmail.com)
+[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dawoodx.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawoodrafique/)
 
 </div>
 
 ---
 
-<div align="center">
-  
-### 💡 "Building the future, one deployment at a time" 
 
-![Profile Views](https://komarev.com/ghpvc/?username=LondheShubham153&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/LondheShubham153?label=Follow&style=social)](https://github.com/LondheShubham153)
-
-</div>
 
